@@ -69,7 +69,7 @@ invisibleGround.visible = false;
 obstaclesGroup = createGroup();
 
 trex.setCollider("circle",5,20,75);
-trex.debug = true
+trex.debug = false
 arrowGroup= new Group(); 
 
 score = 0;  
